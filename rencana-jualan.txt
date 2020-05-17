@@ -3,3 +3,5 @@ Rencana Jualan
 - Mau rilis menu baru
   * Friedfriese Kebab
   * Full Beaf
+  - Jualan pentol bakar
+  - service hanphone
